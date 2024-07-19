@@ -1,9 +1,9 @@
 ---
 title: README
-aliases: [README]
 linter-yaml-title-alias: README
 date created: Wednesday, June 19th 2024, 14:07:33
-date modified: Thursday, June 20th 2024, 21:08:34
+date modified: Tuesday, July 16th 2024, 17:10:54
+aliases: [README]
 ---
 
 # README
@@ -30,7 +30,6 @@ date modified: Thursday, June 20th 2024, 21:08:34
   <li>Password cracker</li>
   <li>Network Scanner</li>
   <li>Wordlist Generator</li><br>
-  
 
 More tools are to be added very soon. </b>
 
