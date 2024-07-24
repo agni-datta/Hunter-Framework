@@ -2,7 +2,7 @@
 title: LICENSE
 linter-yaml-title-alias: LICENSE
 date created: Wednesday, June 19th 2024, 14:07:33
-date modified: Tuesday, July 16th 2024, 17:10:54
+date modified: Wednesday, July 24th 2024, 17:17:22
 aliases: [LICENSE]
 ---
 
